@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490776091199",
+    "project_id": "godigital-fcm",
+    "storage_bucket": "godigital-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490776091199:android:cd171a2ecd0e2e0995768a",
+        "android_client_info": {
+          "package_name": "com.example.getx_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490776091199-ilmaa7jn1o0qqpjkk9jv5le6rvjndkf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMTB5BTXKgxV_FkanaM16FeYg8X8LwP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490776091199-ilmaa7jn1o0qqpjkk9jv5le6rvjndkf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
